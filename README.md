@@ -7,6 +7,6 @@ The working diary ~
 3. 解決順序：WSL update --> WSL install --> WSL convert to WSL2 --> install Ubuntu
 4. 請根據想要的python基礎版本來選定Ubuntu版本，尤其是不考慮使用miniconda或conda系列可以輕鬆解決環境問題的套件，原先使用Ubuntu 20.04(Python=3.8)，嘗試更新到Python=3.10無法覆蓋原本的Python版本，google上常見的更改PATH方法也行不通。
 
-## Learning
+### Learning
 Transformer: encoder + decoder (sequence to sequence); Unlike RNN and CNN, word to word.
-透過找尋最高分的輸出序列(Loss總和最小)，來達成學習目標。
+<br>透過找尋最高分的輸出序列(Loss總和最小)，來達成學習目標。</br>
