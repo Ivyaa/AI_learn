@@ -10,3 +10,5 @@ The working diary ~
 ### Learning
 Transformer: encoder + decoder (sequence to sequence); Unlike RNN and CNN, word to word.
 <br>透過找尋最高分的輸出序列(Loss總和最小)，來達成學習目標。</br>
+<br>url: https://www.youtube.com/watch?v=N6aRv06iv2g</br>
+<br>url: https://www.youtube.com/watch?v=nzqlFIcCSWQ</br>
