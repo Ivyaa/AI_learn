@@ -12,3 +12,10 @@ Transformer: encoder + decoder (sequence to sequence); Unlike RNN and CNN, word 
 <br>透過找尋最高分的輸出序列(Loss總和最小)，來達成學習目標。</br>
 <br>url: https://www.youtube.com/watch?v=N6aRv06iv2g</br>
 <br>url: https://www.youtube.com/watch?v=nzqlFIcCSWQ</br>
+
+# 8/12
+1. WIN11沒更新會阻擋創立WSL2
+2. 了解了階層式程式架構
+3. Gemini CLT蠻好用的，用來整理程式邏輯跟理解是真的很有東西
+
+### Learning
