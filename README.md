@@ -19,3 +19,4 @@ Transformer: encoder + decoder (sequence to sequence); Unlike RNN and CNN, word 
 3. Gemini CLT蠻好用的，用來整理程式邏輯跟理解是真的很有東西
 
 ### Learning
+GAN 理論教學 url:https://www.youtube.com/watch?v=4OWp0wDu6Xw
