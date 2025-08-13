@@ -20,3 +20,6 @@ Transformer: encoder + decoder (sequence to sequence); Unlike RNN and CNN, word 
 
 ### Learning
 GAN 理論教學 url:https://www.youtube.com/watch?v=4OWp0wDu6Xw
+
+# 8/13
+1. 問到了inference的相關知識(後續有時間再來整理一下)
